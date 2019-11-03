@@ -1,5 +1,5 @@
 # KyivstarBigDataSchool
-Test assignment for Kyivstar BigData School 
+Test assignment for Kyivstar BigData School. Binary classification task with XGBClassifier. 
 
 ## Data description
 Файл tabular_data.csv містить числові дані щодо активності абонента протягом трьох періодів.
