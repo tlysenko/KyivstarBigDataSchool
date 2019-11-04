@@ -1,5 +1,7 @@
 # Kyivstar Big Data School Test Assignment
 
+https://bigdata.kyivstar.ua/school/
+
 ## Data description
 
 * tabular_data.csv
